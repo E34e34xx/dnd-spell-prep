@@ -1,0 +1,317 @@
+zh-Hant	zh-Hans	en	ja	ko
+法術整備輔助｜D&D	法术准备助手｜D&D	D&D Spell Prep	D&D 呪文準備	D&D 주문 준비
+法術整備輔助	法术准备助手	Spell Prep	呪文準備	주문 준비
+語言	语言	Language	言語	언어
+開啟存檔	打开存档	Open save	セーブを開く	저장 파일 열기
+另存新檔	另存为	Save as	名前を付けて保存	다른 이름으로 저장
+存檔	保存	Save	保存	저장
+編輯角色	编辑角色	Edit character	キャラクター編集	캐릭터 편집
+規則	规则	Rules	ルール	규칙
+調整法術位／次數	调整法术位／次数	Adjust slots & uses	スロット・使用回数の調整	슬롯·사용 횟수 조정
+短休	短休	Short rest	小休憩	짧은 휴식
+長休	长休	Long rest	大休憩	긴 휴식
+魔法巧計	魔法巧计	Magical Cunning	魔法の機転	마법적 기민함
+下一回合	下一回合	Next turn	次のターン	다음 턴
+整備欄	准备区	Spell board	呪文ボード	주문 보드
+＋ 新增法術	＋ 新增法术	＋ Add spell	＋ 呪文を追加	＋ 주문 추가
+戰鬥紀錄	战斗记录	Combat log	戦闘ログ	전투 기록
+新增備註	新增备注	Add note	メモを追加	메모 추가
+復原上一筆操作	撤销上一步	Undo last action	直前の操作を取り消す	마지막 조작 실행 취소
+複製全文	复制全文	Copy log	ログをコピー	기록 복사
+匯出 TXT	导出 TXT	Export TXT	TXT を出力	TXT 내보내기
+重置紀錄	重置记录	Clear log	ログを消去	기록 지우기
+雙擊戰鬥紀錄可全選 · Ctrl+S 存檔	双击战斗记录可全选 · Ctrl+S 保存	Double-click the log to select all · Ctrl+S to save	ログをダブルクリックで全選択 · Ctrl+S で保存	기록을 두 번 클릭하여 전체 선택 · Ctrl+S로 저장
+反面	背面	Back	裏面	뒷면
+檔案	文件	File	ファイル	파일
+角色	角色	Characters	キャラクター	캐릭터
+目前角色	当前角色	Current character	現在のキャラクター	현재 캐릭터
+法術位總表	法术位总览	Spell slot summary	呪文スロット一覧	주문 슬롯 요약
+回合施法限制	回合施法限制	Per-turn casting limits	ターンごとの呪文発動制限	턴별 주문 시전 제한
+法術整備	法术准备	Spell preparation	呪文準備	주문 준비
+向左捲動	向左滚动	Scroll left	左にスクロール	왼쪽으로 스크롤
+向右捲動	向右滚动	Scroll right	右にスクロール	오른쪽으로 스크롤
+法術環位與卡片	法术环阶与卡片	Spell levels and cards	呪文レベルとカード	주문 레벨 및 카드
+戰鬥施法使用歷程	战斗施法记录	Combat casting history	戦闘中の呪文発動履歴	전투 주문 시전 기록
+施法、休息和次數調整會依時間記錄於此。雙擊可全選。	施法、休息和次数调整会按时间记录。双击可全选。	Casts, rests, and usage adjustments appear here in order. Double-click to select all.	呪文の発動、休憩、使用回数の調整を記録します。ダブルクリックで全選択できます。	시전, 휴식, 사용 횟수 조정이 순서대로 표시됩니다. 두 번 클릭하여 전체 선택할 수 있습니다.
+關閉	关闭	Close	閉じる	닫기
+關閉圖片	关闭图片	Close image	画像を閉じる	이미지 닫기
+法術卡預覽	法术卡预览	Spell card preview	呪文カードのプレビュー	주문 카드 미리 보기
+消耗法術位	消耗法术位	Spend a spell slot	呪文スロットを消費	주문 슬롯 소모
+不限次數，不耗法術位	不限次数，不消耗法术位	At will · no spell slot	回数無制限・スロット不要	횟수 무제한 · 슬롯 불필요
+獨立次數｜長休恢復	独立次数｜长休恢复	Limited uses · long rest	回数制限・大休憩で回復	제한 횟수 · 긴 휴식으로 회복
+獨立次數｜短休或長休恢復	独立次数｜短休或长休恢复	Limited uses · short or long rest	回数制限・小休憩または大休憩で回復	제한 횟수 · 짧은 또는 긴 휴식으로 회복
+獨立次數｜手動恢復	独立次数｜手动恢复	Limited uses · manual recovery	回数制限・手動回復	제한 횟수 · 수동 회복
+消耗法術位與獨立次數｜長休恢復	消耗法术位与独立次数｜长休恢复	Slot + limited use · long rest	スロットと使用回数を消費・大休憩で回復	슬롯과 사용 횟수 소모 · 긴 휴식으로 회복
+消耗法術位與獨立次數｜短休或長休恢復	消耗法术位与独立次数｜短休或长休恢复	Slot + limited use · short or long rest	スロットと使用回数を消費・小休憩または大休憩で回復	슬롯과 사용 횟수 소모 · 짧은 또는 긴 휴식으로 회복
+消耗法術位與獨立次數｜手動恢復	消耗法术位与独立次数｜手动恢复	Slot + limited use · manual recovery	スロットと使用回数を消費・手動回復	슬롯과 사용 횟수 소모 · 수동 회복
+主職業	主职业	Primary class	メインクラス	주 클래스
+副職業	副职业	Additional class	追加クラス	추가 클래스
+種族	种族	Species	種族	종족
+其他	其他	Other	その他	기타
+未命名角色	未命名角色	Unnamed character	名前未設定のキャラクター	이름 없는 캐릭터
+新專案	新项目	New project	新規プロジェクト	새 프로젝트
+有未存變更	有未保存的更改	Unsaved changes	未保存の変更あり	저장하지 않은 변경 사항
+（已用 {0}）	（已用 {0}）	({0} used)	（使用済み {0}）	({0}회 사용)
+剩餘 {0}，已用 {1}，上限 {2}	剩余 {0}，已用 {1}，上限 {2}	{0} remaining, {1} used, {2} maximum	残り {0}、使用済み {1}、上限 {2}	남음 {0}, 사용 {1}, 최대 {2}
+＋ 新增角色	＋ 新增角色	＋ Add character	＋ キャラクターを追加	＋ 캐릭터 추가
+總等級 {0}	总等级 {0}	Total level {0}	合計レベル {0}	총 레벨 {0}
+兼職施法者等級 {0}	兼职施法者等级 {0}	Multiclass caster level {0}	マルチクラス術者レベル {0}	멀티클래스 시전자 레벨 {0}
+契約・{0}	契约・{0}	Pact · {0}	契約魔法・{0}	계약 마법 · {0}
+未設定	未设置	Unset	未設定	미설정
+目前沒有法術位	当前没有法术位	No spell slots	呪文スロットなし	주문 슬롯 없음
+第 {0} 回合	第 {0} 回合	Turn {0}	ターン {0}	턴 {0}
+2014：已用附贈動作施法	2014：已用附赠动作施法	2014: Bonus Action spell cast	2014：ボーナス・アクションで発動済み	2014: 추가 행동으로 시전함
+2014：附贈動作施法限制	2014：附赠动作施法限制	2014: Bonus Action casting limit	2014：ボーナス・アクションの発動制限	2014: 추가 행동 시전 제한
+2024：已消耗法術位	2024：已消耗法术位	2024: Spell slot spent	2024：スロット消費済み	2024: 주문 슬롯 소모함
+2024：可消耗 1 個法術位	2024：可消耗 1 个法术位	2024: One spell slot may be spent	2024：スロットを1つ消費可能	2024: 주문 슬롯 1개 소모 가능
+不耗法術位	不消耗法术位	No spell slot	スロット不要	주문 슬롯 불필요
+使用獨立次數	消耗独立次数	Spend a limited use	使用回数を消費	제한 사용 횟수 소모
+{0}法術位	{0}法术位	{0} slot	{0}のスロット	{0} 슬롯
+{0}施放	以{0}施放	Cast at {0}	{0}で発動	{0}로 시전
+獨立剩 {0}／{1}	独立剩余 {0}／{1}	{0}/{1} limited uses left	残り使用回数 {0}／{1}	제한 횟수 {0}/{1} 남음
+剩 {0}／{1}	剩余 {0}／{1}	{0}/{1} left	残り {0}／{1}	{0}/{1} 남음
+施放 {0}（{1}）	施放 {0}（{1}）	Cast {0} ({1})	{0}を発動（{1}）	{0} 시전 ({1})
+種族先天法術	种族先天法术	Innate species spells	種族由来の呪文	종족 고유 주문
+新增{0}	新增{0}	Add {0}	{0}を追加	{0} 추가
+新增文字或拖曳法術卡圖片	添加文本或拖入法术卡图片	Add text or drop a spell card image	テキストを追加するか、カード画像をドロップ	텍스트를 추가하거나 주문 카드 이미지를 끌어 놓으세요
+{0}法術卡	{0}法术卡	{0} spell card	{0}の呪文カード	{0} 주문 카드
+放大 {0}	放大 {0}	Enlarge {0}	{0}を拡大	{0} 확대
+編輯	编辑	Edit	編集	편집
+編輯 {0}	编辑 {0}	Edit {0}	{0}を編集	{0} 편집
+種族法術	种族法术	Species spell	種族呪文	종족 주문
+正／反	正／反	Front / back	表／裏	앞면 / 뒷면
+短休／長休	短休／长休	Short / long rest	小休憩／大休憩	짧은 / 긴 휴식
+手動恢復	手动恢复	Manual recovery	手動回復	수동 회복
+使用	使用	Cast	発動	시전
+使用 {0}	使用 {0}	Cast {0}	{0}を発動	{0} 시전
+施放方式 {0}	施放方式 {0}	Casting method for {0}	{0}の発動方法	{0} 시전 방식
+本回合無法使用	本回合无法使用	Unavailable this turn	このターンは発動不可	이번 턴에 시전 불가
+無可用次數	无可用次数	No uses available	使用可能回数なし	남은 사용 횟수 없음
+取消	取消	Cancel	キャンセル	취소
+操作未完成，請重試。	操作未完成，请重试。	The action could not be completed. Try again.	操作を完了できませんでした。もう一度お試しください。	작업을 완료하지 못했습니다. 다시 시도해 주세요.
+主職業等級	主职业等级	Primary class level	メインクラスのレベル	주 클래스 레벨
+副職業等級	副职业等级	Additional class level	追加クラスのレベル	추가 클래스 레벨
+選擇副職業	选择副职业	Select an additional class	追加クラスを選択	추가 클래스 선택
+子職業名稱	子职业名称	Subclass name	サブクラス名	서브클래스 이름
+{0}的子職業	{0}的子职业	Subclass for {0}	{0}のサブクラス	{0}의 서브클래스
+子職業（選填）	子职业（可选）	Subclass (optional)	サブクラス（任意）	서브클래스 (선택)
+輸入職業名稱	输入职业名称	Enter a class name	クラス名を入力	클래스 이름 입력
+自訂職業名稱	自定义职业名称	Custom class name	カスタムクラス名	사용자 지정 클래스 이름
+移除	移除	Remove	削除	제거
+新增角色	新增角色	Add character	キャラクターを追加	캐릭터 추가
+建立角色	创建角色	Create character	キャラクターを作成	캐릭터 만들기
+套用設定	应用设置	Apply settings	設定を適用	설정 적용
+輸入角色名稱	输入角色名称	Enter a character name	キャラクター名を入力	캐릭터 이름 입력
+種族名稱	种族名称	Species name	種族名	종족 이름
+角色名稱	角色名称	Character name	キャラクター名	캐릭터 이름
+起始規則範本	初始规则预设	Starting rules preset	初期ルールのプリセット	초기 규칙 프리셋
+主職業與副職業等級	主职业与副职业等级	Primary and additional class levels	メインクラスと追加クラスのレベル	주 클래스 및 추가 클래스 레벨
+＋ 新增副職業	＋ 新增副职业	＋ Add another class	＋ 追加クラスを登録	＋ 클래스 추가
+保留已消耗的法術位與獨立次數	保留已消耗的法术位与独立次数	Keep spent slots and limited uses	消費済みのスロットと使用回数を保持	소모한 슬롯과 제한 횟수 유지
+法術位自動依新等級計算。先前手填的格數保留，可在「調整法術位／次數」還原自動。	法术位按新等级自动计算。手动设置会保留，可在“调整法术位／次数”恢复自动计算。	Slots recalculate for the new level. Manual limits are kept and can be cleared under Adjust slots & uses.	新しいレベルに合わせてスロットを再計算します。手動上限は保持され、「スロット・使用回数の調整」で自動計算に戻せます。	새 레벨에 맞춰 슬롯을 다시 계산합니다. 수동 한도는 유지되며 ‘슬롯·사용 횟수 조정’에서 자동 계산으로 되돌릴 수 있습니다.
+刪除這個角色	删除此角色	Delete this character	このキャラクターを削除	이 캐릭터 삭제
+刪除「{0}」及其法術與紀錄？	删除“{0}”及其法术和记录？	Delete {0}, including their spells and log?	「{0}」とその呪文・ログを削除しますか？	‘{0}’ 및 해당 주문과 기록을 삭제할까요?
+請輸入角色名稱。	请输入角色名称。	Enter a character name.	キャラクター名を入力してください。	캐릭터 이름을 입력해 주세요.
+請輸入種族名稱。	请输入种族名称。	Enter a species name.	種族名を入力してください。	종족 이름을 입력해 주세요.
+請輸入 1 到 20 之間的職業等級。	请输入 1 到 20 之间的职业等级。	Enter a class level from 1 to 20.	クラスレベルは1～20で入力してください。	클래스 레벨을 1~20으로 입력해 주세요.
+請輸入自訂職業名稱。	请输入自定义职业名称。	Enter a custom class name.	カスタムクラス名を入力してください。	사용자 지정 클래스 이름을 입력해 주세요.
+同一職業請合併成一筆等級。	同一职业请合并为一项。	Combine duplicate entries for the same class.	同じクラスの項目は1つにまとめてください。	같은 클래스는 하나의 항목으로 합쳐 주세요.
+角色總等級上限為 20。	角色总等级上限为 20。	Total character level cannot exceed 20.	キャラクターの合計レベルの上限は20です。	캐릭터의 총 레벨은 20을 초과할 수 없습니다.
+兩版共通與兼職	通用规则与兼职	Shared & multiclass rules	共通・マルチクラスルール	공통 및 멀티클래스 규칙
+回合施法限制（選用）	回合施法限制（可选）	Optional per-turn casting limits	ターンごとの発動制限（任意）	턴별 시전 제한 (선택)
+混用規則	混用规则	Mix edition rules	版をまたいだルール設定	판본 혼용 규칙
+套用規則	应用规则	Apply rules	ルールを適用	규칙 적용
+2014 全套預設	2014 完整预设	2014 preset	2014年版のプリセット	2014 프리셋
+2024 全套預設	2024 完整预设	2024 preset	2024年版のプリセット	2024 프리셋
+同類版本規則擇一。關閉兼職合併時，會將各職業自己的法術位逐環相加。兩種兼職折半都未選時，聖騎士／遊俠不計入兼職等級。	同类版本规则只能选一项。关闭兼职合并后，各职业的法术位按环阶相加。两种兼职折半规则都关闭时，圣骑士和游侠不计入兼职施法者等级。	Choose one edition per rule type. With multiclass merging off, each class contributes its own slots by spell level. If both rounding rules are off, Paladin and Ranger do not contribute to multiclass caster level.	同じ種類のルールは片方の版を選択します。マルチクラスの統合がオフの場合、各クラスのスロットをレベルごとに合計します。端数処理を両方オフにすると、パラディンとレンジャーはマルチクラス術者レベルに加算されません。	같은 종류의 규칙은 한 판본만 선택합니다. 멀티클래스 통합을 끄면 각 클래스의 슬롯을 레벨별로 합칩니다. 두 반올림 규칙을 모두 끄면 팔라딘과 레인저는 멀티클래스 시전자 레벨에 반영되지 않습니다.
+兩版限制可各自開關，也可同時套用。啟用後，目前角色在新的生物回合施法前，請按「下一回合」。反應例外只影響 2014 附贈動作限制。	两版限制可以单独启用，也可同时启用。切换到新的生物回合时，请在施法前点击“下一回合”。反应例外只影响 2014 附赠动作限制。	Enable either limit or both. Use Next turn before this character casts on a new creature’s turn. The reaction exception applies to the 2014 Bonus Action limit only.	各版の制限を個別に、または同時に有効にできます。別のクリーチャーのターンでこのキャラクターが発動する前に「次のターン」を選びます。リアクションの例外は2014年版のボーナス・アクション制限にのみ適用されます。	각 제한을 개별적으로 또는 동시에 켤 수 있습니다. 새 크리처의 턴에 이 캐릭터가 시전하기 전에 ‘다음 턴’을 누르세요. 반응행동 예외는 2014 추가 행동 제한에만 적용됩니다.
+套用調整	应用调整	Apply adjustments	調整を適用	조정 적용
+上限空白代表自動計算，填 0 可關閉該環。已用次數會保留；要補滿請將已用次數設為 0。	上限留空时自动计算，填 0 可关闭该环阶。已用次数会保留；设为 0 可恢复全部次数。	Leave the limit blank for automatic calculation, or enter 0 to disable that level. Set used to 0 to refill it.	上限を空欄にすると自動計算、0を入力するとそのレベルを無効化します。すべて回復するには使用済み回数を0にします。	한도를 비워 두면 자동으로 계산되며, 0을 입력하면 해당 레벨을 비활성화합니다. 모두 회복하려면 사용 횟수를 0으로 설정하세요.
+環位	环阶	Spell level	呪文レベル	주문 레벨
+計算上限	计算上限	Calculated limit	自動計算の上限	계산된 한도
+手動上限	手动上限	Manual limit	手動上限	수동 한도
+已用次數	已用次数	Used	使用済み回数	사용 횟수
+自動	自动	Auto	自動	자동
+{0}手動上限	{0}手动上限	{0} manual limit	{0}の手動上限	{0} 수동 한도
+{0}已用次數	{0}已用次数	{0} used	{0}の使用済み回数	{0} 사용 횟수
+契約法術位	契约法术位	Pact Magic slots	契約魔法スロット	계약 마법 슬롯
+契約環位	契约环阶	Pact slot level	契約魔法のスロットレベル	계약 마법 슬롯 레벨
+獨立法術次數	独立法术次数	Limited spell uses	呪文ごとの使用回数	주문별 제한 횟수
+{0}（上限 {1}）已用次數	{0}（上限 {1}）已用次数	{0} uses spent (max {1})	{0}の使用済み回数（上限 {1}）	{0} 사용 횟수 (최대 {1})
+2014 奧術恢復：今日已使用	2014 奥术恢复：今日已使用	2014 Arcane Recovery: used today	2014年版の秘術回復：本日使用済み	2014 비전 회복: 오늘 사용함
+補滿次數	恢复全部次数	Refill uses	使用回数をすべて回復	사용 횟수 모두 회복
+上限改回自動	恢复自动计算上限	Restore automatic limits	上限を自動計算に戻す	한도를 자동 계산으로 복원
+請設定契約環位。	请设置契约环阶。	Set a Pact Magic slot level.	契約魔法のスロットレベルを設定してください。	계약 마법 슬롯 레벨을 설정해 주세요.
+手動調整法術位與使用次數	手动调整法术位与使用次数	Manually adjusted slots and uses	スロットと使用回数を手動調整	슬롯과 사용 횟수를 수동 조정함
+請選擇 16 MB 以內的 PNG、JPG、WebP 或 GIF 圖片。	请选择 16 MB 以内的 PNG、JPG、WebP 或 GIF 图片。	Choose a PNG, JPG, WebP, or GIF image up to 16 MB.	16 MB以下の PNG、JPG、WebP、GIF 画像を選択してください。	16 MB 이하의 PNG, JPG, WebP 또는 GIF 이미지를 선택해 주세요.
+圖片讀取失敗。	图片读取失败。	Could not read the image.	画像を読み込めませんでした。	이미지를 읽지 못했습니다.
+圖片無法顯示，請確認檔案格式。	无法显示图片，请检查文件格式。	Could not display the image. Check its format.	画像を表示できませんでした。形式を確認してください。	이미지를 표시하지 못했습니다. 파일 형식을 확인해 주세요.
+{0}圖片	{0}图片	{0} image	{0}の画像	{0} 이미지
+移除圖片	移除图片	Remove image	画像を削除	이미지 제거
+可拖曳圖片到此	可拖入图片	Drop an image here	画像をここにドロップ	여기에 이미지를 끌어 놓기
+編輯法術	编辑法术	Edit spell	呪文を編集	주문 편집
+新增法術	新增法术	Add spell	呪文を追加	주문 추가
+儲存法術	保存法术	Save spell	呪文を保存	주문 저장
+施放條件、來源、效果或團規	施放条件、来源、效果或团规	Casting conditions, source, effects, or house rules	発動条件、習得元、効果、卓ルールなど	시전 조건, 출처, 효과 또는 하우스 룰
+也允許消耗法術位施放	也允许消耗法术位施放	Also allow casting with a spell slot	スロットを消費しての発動も許可	주문 슬롯을 소모한 시전도 허용
+獨立次數上限	独立次数上限	Maximum limited uses	使用回数の上限	제한 횟수 한도
+法術名稱	法术名称	Spell name	呪文名	주문 이름
+取得來源	获取来源	Source	習得元	출처
+基礎環位	基础环阶	Base spell level	基本呪文レベル	기본 주문 레벨
+施放動作	施法动作	Casting action	発動アクション	시전 행동
+施放方式	施放方式	Casting method	発動方法	시전 방식
+法術文字	法术文本	Spell text	呪文テキスト	주문 텍스트
+此法術的環位與計次由角色的規則範本控制。	此法术的环阶与次数由角色的规则预设决定。	This spell’s level and uses follow the character’s rules preset.	この呪文のレベルと使用回数はキャラクターのルール設定に従います。	이 주문의 레벨과 사용 횟수는 캐릭터의 규칙 프리셋을 따릅니다.
+正面	正面	Front	表面	앞면
+刪除法術	删除法术	Delete spell	呪文を削除	주문 삭제
+刪除「{0}」？	删除“{0}”？	Delete {0}?	「{0}」を削除しますか？	‘{0}’을(를) 삭제할까요?
+請輸入法術名稱。	请输入法术名称。	Enter a spell name.	呪文名を入力してください。	주문 이름을 입력해 주세요.
+戲法不消耗環位法術位，請調整施放方式。	戏法不消耗法术位，请调整施放方式。	Cantrips cannot spend spell slots. Choose another casting method.	初級呪文はスロットを消費しません。別の発動方法を選んでください。	소마법은 주문 슬롯을 소모하지 않습니다. 다른 시전 방식을 선택해 주세요.
+顯示正面	显示正面	Show front	表面を表示	앞면 보기
+顯示反面	显示背面	Show back	裏面を表示	뒷면 보기
+奧術恢復	奥术恢复	Arcane Recovery	秘術回復	비전 회복
+自然恢復	自然恢复	Natural Recovery	自然回復	자연 회복
+完成長休	完成长休	Finish long rest	大休憩を完了	긴 휴식 완료
+完成短休	完成短休	Finish short rest	小休憩を完了	짧은 휴식 완료
+一般法術位	普通法术位	Regular spell slots	通常の呪文スロット	일반 주문 슬롯
+符合休息條件的獨立法術次數	符合休息条件的独立法术次数	Eligible limited spell uses	条件を満たす呪文の使用回数	조건에 맞는 주문의 제한 횟수
+恢復：{0}。	恢复：{0}。	Recover: {0}.	回復：{0}。	회복: {0}.
+這次休息不會自動恢復目前角色的法術資源。	此次休息不会自动恢复当前角色的法术资源。	This rest does not automatically restore this character’s spell resources.	今回の休憩では、このキャラクターの呪文リソースは自動回復しません。	이번 휴식으로는 이 캐릭터의 주문 자원이 자동으로 회복되지 않습니다.
+團內已進入新的一天，重置 2014 奧術恢復	团内已进入新的一天，重置 2014 奥术恢复	A new in-game day has begun. Reset 2014 Arcane Recovery.	ゲーム内で日付が変わったため、2014年版の秘術回復をリセット	게임 내 새 날이 시작되어 2014 비전 회복 초기화
+已使用，待團內換日。	已使用，等团内换日。	Already used. Available on the next in-game day.	使用済み。ゲーム内で日付が変わると回復します。	이미 사용했습니다. 게임 내 다음 날에 회복됩니다.
+已使用，待長休。	已使用，等长休。	Already used. Available after a long rest.	使用済み。大休憩後に回復します。	이미 사용했습니다. 긴 휴식으로 회복됩니다.
+可恢復合計 {0} 環的已用法術位，限一至五環。	可恢复合计 {0} 环的已用法术位，限一至五环。	Recover spent slots totaling up to {0} slot levels. Only levels 1–5 are eligible.	消費済みのスロットをレベル合計 {0} まで回復できます。対象は1～5レベルです。	1~5레벨의 소모한 슬롯을 레벨 합계 {0}까지 회복할 수 있습니다.
+{0}恢復幾格	{0}恢复数量	{0} slots to restore	{0}の回復数	{0} 회복 슬롯 수
+目前沒有可恢復的法術位。	当前没有可恢复的法术位。	There are no eligible slots to recover.	回復できるスロットはありません。	회복할 수 있는 슬롯이 없습니다.
+{0}超過 {1} 環的上限。	{0}超过 {1} 环的上限。	{0} exceeds its budget of {1} slot levels.	{0}の上限（レベル合計 {1}）を超えています。	{0}의 슬롯 레벨 합계 한도 {1}을 초과했습니다.
+恢復的格數超過可恢復的已用法術位。	恢复数量超过可恢复的已用法术位。	The selected recovery exceeds the eligible spent slots.	指定した回復数が対象の消費済みスロット数を超えています。	선택한 회복 수가 회복 가능한 슬롯 수를 초과했습니다.
+使用魔法巧計，恢復 {0} 格契約法術位	使用魔法巧计，恢复 {0} 个契约法术位	Used Magical Cunning to recover {0} Pact Magic slot(s)	魔法の機転を使い、契約魔法スロットを {0} 個回復	마법적 기민함으로 계약 마법 슬롯 {0}개 회복
+新增戰鬥備註	新增战斗备注	Add combat note	戦闘メモを追加	전투 메모 추가
+加入紀錄	加入记录	Add to log	ログに追加	기록에 추가
+備註內容	备注内容	Note	メモ内容	메모 내용
+請輸入備註。	请输入备注。	Enter a note.	メモを入力してください。	메모를 입력해 주세요.
+備註 · {0}	备注 · {0}	Note · {0}	メモ・{0}	메모 · {0}
+這不是可辨識的法術整備存檔。	无法识别此法术准备存档。	This file is not a valid Spell Prep save.	このファイルは呪文準備の有効なセーブデータではありません。	유효한 주문 준비 저장 파일이 아닙니다.
+角色 {0} 的資料不完整。	角色 {0} 的数据不完整。	Character {0} has incomplete data.	キャラクター {0} のデータが不完全です。	캐릭터 {0}의 데이터가 완전하지 않습니다.
+D&D 法術整備存檔	D&D 法术准备存档	D&D Spell Prep save	D&D 呪文準備セーブデータ	D&D 주문 준비 저장 파일
+存檔超過 200 MB，請縮小法術卡圖片。	存档超过 200 MB，请缩小法术卡图片。	Save exceeds 200 MB. Reduce the size of spell card images.	セーブデータが200 MBを超えています。カード画像を縮小してください。	저장 파일이 200 MB를 초과합니다. 카드 이미지 크기를 줄여 주세요.
+已存檔｜{0}	已保存｜{0}	Saved · {0}	保存しました・{0}	저장함 · {0}
+已交給瀏覽器下載存檔。	已交由浏览器下载存档。	Save sent to the browser for download.	ブラウザーにセーブデータのダウンロードを開始しました。	브라우저에서 저장 파일을 다운로드합니다.
+存檔失敗｜{0}	保存失败｜{0}	Save failed · {0}	保存できませんでした・{0}	저장 실패 · {0}
+存檔超過 200 MB。	存档超过 200 MB。	Save exceeds 200 MB.	セーブデータが200 MBを超えています。	저장 파일이 200 MB를 초과합니다.
+已開啟｜{0}	已打开｜{0}	Opened · {0}	開きました・{0}	열었음 · {0}
+存檔格式無法讀取。	无法读取存档格式。	Could not read the save format.	セーブ形式を読み取れませんでした。	저장 파일 형식을 읽을 수 없습니다.
+開啟失敗｜{0}	打开失败｜{0}	Open failed · {0}	開けませんでした・{0}	열기 실패 · {0}
+目前有未存變更。仍要開啟另一份存檔？	有未保存的更改。仍要打开其他存档吗？	There are unsaved changes. Open another save anyway?	未保存の変更があります。別のセーブを開きますか？	저장하지 않은 변경 사항이 있습니다. 다른 저장 파일을 열까요?
+已複製戰鬥紀錄	已复制战斗记录	Combat log copied	戦闘ログをコピーしました	전투 기록을 복사했습니다
+已全選，可按 Ctrl+C 複製。	已全选，按 Ctrl+C 复制。	All selected. Press Ctrl+C to copy.	全選択しました。Ctrl+C でコピーできます。	전체를 선택했습니다. Ctrl+C로 복사하세요.
+上一筆操作	上一步操作	Previous action	直前の操作	이전 작업
+復原 · {0}	撤销 · {0}	Undid · {0}	取り消し・{0}	실행 취소 · {0}
+重置戰鬥紀錄	重置战斗记录	Clear combat log	戦闘ログを消去	전투 기록 지우기
+確認重置	确认重置	Confirm clear	消去を確定	지우기 확인
+重置後，「{0}」的 {1} 筆戰鬥紀錄將歸零，無法復原。法術位與使用次數會保留。	重置后，“{0}”的 {1} 条战斗记录将被清空，无法撤销。法术位与使用次数会保留。	This permanently clears {1} combat log entries for {0}. Spell slots and usage counts stay as they are.	「{0}」の戦闘ログ {1} 件を消去します。元には戻せません。呪文スロットと使用回数は保持されます。	‘{0}’의 전투 기록 {1}건을 영구적으로 지웁니다. 주문 슬롯과 사용 횟수는 유지됩니다.
+已重置戰鬥紀錄	已重置战斗记录	Combat log cleared	戦闘ログを消去しました	전투 기록을 지웠습니다
+戲法	戏法	Cantrip	初級呪文	소마법
+一環	一环	Level 1	1レベル	1레벨
+二環	二环	Level 2	2レベル	2레벨
+三環	三环	Level 3	3レベル	3레벨
+四環	四环	Level 4	4レベル	4레벨
+五環	五环	Level 5	5レベル	5레벨
+六環	六环	Level 6	6レベル	6레벨
+七環	七环	Level 7	7レベル	7레벨
+八環	八环	Level 8	8レベル	8레벨
+九環	九环	Level 9	9レベル	9레벨
+法師	法师	Wizard	ウィザード	위저드
+術士	术士	Sorcerer	ソーサラー	소서러
+牧師	牧师	Cleric	クレリック	클레릭
+德魯伊	德鲁伊	Druid	ドルイド	드루이드
+吟遊詩人	吟游诗人	Bard	バード	바드
+聖騎士	圣骑士	Paladin	パラディン	팔라딘
+遊俠	游侠	Ranger	レンジャー	레인저
+邪術師	邪术师	Warlock	ウォーロック	워락
+奇械師	奇械师	Artificer	アーティフィサー	아티피서
+戰士	战士	Fighter	ファイター	파이터
+盜賊	盗贼	Rogue	ローグ	로그
+野蠻人	野蛮人	Barbarian	バーバリアン	바바리안
+武僧	武僧	Monk	モンク	몽크
+自訂職業	自定义职业	Custom class	カスタムクラス	사용자 지정 클래스
+奧法騎士	奥法骑士	Eldritch Knight	エルドリッチ・ナイト	엘드리치 나이트
+詭術師	诡术师	Arcane Trickster	アーケイン・トリックスター	아케인 트릭스터
+大地結社	大地结社	Circle of the Land	土地の円環	대지의 회합
+人類	人类	Human	ヒューマン	인간
+高等精靈	高等精灵	High Elf	ハイ・エルフ	하이 엘프
+木精靈	木精灵	Wood Elf	ウッド・エルフ	우드 엘프
+卓爾精靈	卓尔精灵	Drow	ドラウ	드로우
+矮人	矮人	Dwarf	ドワーフ	드워프
+半身人	半身人	Halfling	ハーフリング	하플링
+龍裔	龙裔	Dragonborn	ドラゴンボーン	드래곤본
+森林地侏	森林侏儒	Forest Gnome	フォレスト・ノーム	숲 노움
+岩地侏	岩侏儒	Rock Gnome	ロック・ノーム	바위 노움
+提夫林・煉獄	提夫林・炼狱	Tiefling · Infernal	ティーフリング・インファーナル	티플링 · 지옥
+提夫林・深淵	提夫林・深渊	Tiefling · Abyssal	ティーフリング・アビサル	티플링 · 심연
+提夫林・冥界	提夫林・冥界	Tiefling · Chthonic	ティーフリング・クトニック	티플링 · 지하계
+半精靈	半精灵	Half-Elf	ハーフエルフ	하프 엘프
+半獸人	半兽人	Half-Orc	ハーフオーク	하프 오크
+獸人	兽人	Orc	オーク	오크
+歌利亞	歌利亚	Goliath	ゴライアス	골리앗
+阿斯莫	阿斯莫	Aasimar	アアシマール	아시마르
+自訂種族	自定义种族	Custom species	カスタム種族	사용자 지정 종족
+聖騎士、遊俠從職業 2 級取得法術位	圣骑士和游侠从职业 2 级获得法术位	Paladins and Rangers gain spell slots at class level 2	パラディンとレンジャーはクラス2レベルでスロットを得る	팔라딘과 레인저는 클래스 2레벨부터 주문 슬롯을 얻습니다
+兼職聖騎士、遊俠的等級折半後向下取整	兼职圣骑士和游侠的等级折半后向下取整	For multiclassing, halve Paladin and Ranger levels and round down	マルチクラスのパラディンとレンジャーはレベルを半分にして切り捨てる	멀티클래스에서 팔라딘과 레인저 레벨을 절반으로 나누고 내림합니다
+套用 2014 種族法術範本	应用 2014 种族法术预设	Use 2014 species spell presets	2014年版の種族呪文プリセットを使用	2014 종족 주문 프리셋 적용
+法師奧術恢復每日一次，在短休時選擇恢復的法術位	法师奥术恢复每天一次，在短休时选择要恢复的法术位	Wizard Arcane Recovery: choose slots to recover during a short rest, once per day	ウィザードの秘術回復：1日1回、小休憩時に回復するスロットを選ぶ	위저드의 비전 회복: 하루 한 번, 짧은 휴식 때 회복할 슬롯을 선택합니다
+大地結社 2 級啟用自然恢復	大地结社从 2 级启用自然恢复	Circle of the Land gains Natural Recovery at level 2	土地の円環は2レベルで自然回復を得る	대지의 회합은 2레벨에 자연 회복을 얻습니다
+聖騎士、遊俠從職業 1 級取得法術位	圣骑士和游侠从职业 1 级获得法术位	Paladins and Rangers gain spell slots at class level 1	パラディンとレンジャーはクラス1レベルでスロットを得る	팔라딘과 레인저는 클래스 1레벨부터 주문 슬롯을 얻습니다
+兼職聖騎士、遊俠的等級折半後向上取整	兼职圣骑士和游侠的等级折半后向上取整	For multiclassing, halve Paladin and Ranger levels and round up	マルチクラスのパラディンとレンジャーはレベルを半分にして切り上げる	멀티클래스에서 팔라딘과 레인저 레벨을 절반으로 나누고 올림합니다
+套用 2024 種族法術範本，適用的法術可另消耗法術位施放	应用 2024 种族法术预设，适用的法术也可消耗法术位施放	Use 2024 species spell presets. Eligible spells can also be cast with spell slots.	2024年版の種族呪文プリセットを使用。対象の呪文はスロットでも発動できる	2024 종족 주문 프리셋을 적용합니다. 해당 주문은 주문 슬롯으로도 시전할 수 있습니다
+法師奧術恢復每長休一次，在短休時選擇恢復的法術位	法师奥术恢复每次长休后一次，在短休时选择要恢复的法术位	Wizard Arcane Recovery: choose slots to recover during a short rest, once per long rest	ウィザードの秘術回復：大休憩ごとに1回、小休憩時に回復するスロットを選ぶ	위저드의 비전 회복: 긴 휴식당 한 번, 짧은 휴식 때 회복할 슬롯을 선택합니다
+大地結社 6 級啟用自然恢復	大地结社从 6 级启用自然恢复	Circle of the Land gains Natural Recovery at level 6	土地の円環は6レベルで自然回復を得る	대지의 회합은 6레벨에 자연 회복을 얻습니다
+邪術師 2 級啟用魔法巧計，恢復契約法術位上限的一半（向上取整）	邪术师从 2 级启用魔法巧计，恢复契约法术位上限的一半（向上取整）	Warlock gains Magical Cunning at level 2 and can recover half their maximum Pact Magic slots, rounded up	ウォーロックは2レベルで魔法の機転を得て、契約魔法スロット上限の半分（切り上げ）を回復	워락은 2레벨에 마법적 기민함을 얻어 계약 마법 슬롯 최대치의 절반(올림)을 회복합니다
+自動加入遊俠的獵人印記免費次數（長休恢復）	自动加入游侠的猎人印记免费次数（长休恢复）	Add the Ranger’s free uses of Hunter’s Mark, restored on a long rest	レンジャーのハンターズ・マークの無消費使用回数を自動追加。大休憩で回復	레인저의 사냥꾼의 징표 무료 사용 횟수를 추가합니다. 긴 휴식으로 회복합니다
+合併兼職法術位。全施法職業全計、奧法騎士／詭術師各計 1/3（向下取整）、奇械師計一半（向上取整）	合并兼职法术位。全施法职业按全等级计算，奥法骑士／诡术师各按 1/3 向下取整，奇械师按一半向上取整	Merge multiclass slots. Count full caster levels in full, one-third of Eldritch Knight and Arcane Trickster levels rounded down, and half of Artificer levels rounded up.	マルチクラスのスロットを統合。完全術者は全レベル、エルドリッチ・ナイトとアーケイン・トリックスターは各3分の1（切り捨て）、アーティフィサーは半分（切り上げ）を加算	멀티클래스 주문 슬롯을 통합합니다. 완전 시전자 레벨 전부, 엘드리치 나이트와 아케인 트릭스터 각각의 1/3(내림), 아티피서 레벨의 절반(올림)을 반영합니다
+長休恢復一般法術位	长休恢复普通法术位	Restore regular spell slots on a long rest	大休憩で通常の呪文スロットを回復	긴 휴식으로 일반 주문 슬롯 회복
+短休恢復契約法術位	短休恢复契约法术位	Restore Pact Magic slots on a short rest	小休憩で契約魔法スロットを回復	짧은 휴식으로 계약 마법 슬롯 회복
+長休恢復契約法術位	长休恢复契约法术位	Restore Pact Magic slots on a long rest	大休憩で契約魔法スロットを回復	긴 휴식으로 계약 마법 슬롯 회복
+邪術師 11／13／15／17 級解鎖 6／7／8／9 環秘法奧秘，每個獨立計次	邪术师在 11／13／15／17 级解锁 6／7／8／9 环秘法奥秘，分别计次	Warlock levels 11/13/15/17 unlock level 6/7/8/9 Mystic Arcanum with separate uses	ウォーロックは11／13／15／17レベルで6／7／8／9レベルの神秘の秘奥を得る。使用回数は個別	워락은 11/13/15/17레벨에 6/7/8/9레벨 신비의 비전을 해금하며 각각의 사용 횟수를 추적합니다
+法師 20 級解鎖兩個招牌法術的免費次數，各 1 次，每短休或長休恢復	法师 20 级解锁两个招牌法术，各可免费施放 1 次，短休或长休恢复	Wizard level 20 unlocks two Signature Spells, one free use each per short or long rest	ウィザードは20レベルで得意呪文を2つ得る。各1回の無消費発動が小休憩または大休憩で回復	위저드는 20레벨에 대표 주문 두 개를 해금합니다. 각각 무료 1회이며 짧은 또는 긴 휴식으로 회복합니다
+2014｜附贈動作施法：同一回合的其他法術只能是以動作施放的戲法	2014｜附赠动作施法：同回合的其他法术只能是以动作施放的戏法	2014 · After casting a Bonus Action spell, any other spell on that turn must be a cantrip cast as an Action	2014・ボーナス・アクションで呪文を発動したターンは、他の呪文はアクションで発動する初級呪文のみ	2014 · 추가 행동으로 주문을 시전한 턴의 다른 주문은 행동으로 시전하는 소마법만 가능합니다
+2024｜每回合最多消耗 1 個法術位施法（含契約法術位）	2024｜每回合最多消耗 1 个法术位施法（含契约法术位）	2024 · Spend at most one spell slot per turn to cast a spell (including Pact Magic slots)	2024・呪文の発動で消費できるスロットは1ターンに1つまで（契約魔法を含む）	2024 · 주문 시전에 턴당 최대 주문 슬롯 1개 소모 (계약 마법 포함)
+團規｜2014 附贈動作限制放寬，同回合可搭配反應法術	团规｜放宽 2014 附赠动作限制，同回合允许反应法术	House rule · Let reaction spells bypass the 2014 Bonus Action limit	卓ルール・2014年版のボーナス・アクション制限からリアクション呪文を除外	하우스 룰 · 2014 추가 행동 제한에 반응행동 주문 예외 적용
+動作	动作	Action	アクション	행동
+附贈動作	附赠动作	Bonus Action	ボーナス・アクション	추가 행동
+反應	反应	Reaction	リアクション	반응행동
+其他／較長施法	其他／较长施法	Other / longer casting	その他／長い発動時間	기타 / 긴 시전
+2014｜本回合已以附贈動作施法	2014｜本回合已用附赠动作施法	2014 · A Bonus Action spell has already been cast this turn	2014・このターンはボーナス・アクションで発動済み	2014 · 이번 턴에 이미 추가 행동으로 시전했습니다
+2014｜本回合已有無法搭配附贈動作的法術	2014｜本回合已有无法搭配附赠动作的法术	2014 · A spell already cast this turn prevents Bonus Action casting	2014・このターンの先行呪文によりボーナス・アクションで発動できません	2014 · 이번 턴에 이미 시전한 주문으로 인해 추가 행동으로 시전할 수 없습니다
+2014｜附贈動作施法後，只能搭配動作戲法或反應法術	2014｜附赠动作施法后，只能搭配动作戏法或反应法术	2014 · Only Action cantrips or reaction spells can accompany a Bonus Action spell	2014・ボーナス・アクション呪文と併用できるのはアクションの初級呪文またはリアクション呪文だけです	2014 · 추가 행동 주문과 함께 행동 소마법 또는 반응행동 주문만 시전할 수 있습니다
+2014｜附贈動作施法後，只能搭配動作戲法	2014｜附赠动作施法后，只能搭配动作戏法	2014 · Only Action cantrips can accompany a Bonus Action spell	2014・ボーナス・アクション呪文と併用できるのはアクションの初級呪文だけです	2014 · 추가 행동 주문과 함께 행동 소마법만 시전할 수 있습니다
+2024｜本回合已消耗法術位	2024｜本回合已消耗法术位	2024 · A spell slot has already been spent this turn	2024・このターンは呪文スロット消費済みです	2024 · 이번 턴에 이미 주문 슬롯을 소모했습니다
+自選法師戲法（可編輯）	自选法师戏法（可编辑）	Wizard cantrip of choice (editable)	ウィザードの任意の初級呪文（編集可）	선택한 위저드 소마법 (편집 가능)
+舞光術	舞光术	Dancing Lights	ダンシング・ライツ	춤추는 빛
+妖火術	妖火术	Faerie Fire	フェアリー・ファイアー	요정의 불꽃
+黑暗術	黑暗术	Darkness	ダークネス	어둠
+次級幻影	次级幻影	Minor Illusion	マイナー・イリュージョン	하급 환영
+奇術	奇术	Thaumaturgy	ソーマタージー	기적
+煉獄叱喝	炼狱叱喝	Hellish Rebuke	ヘリッシュ・リビューク	지옥의 질책
+魔法伎倆	魔法伎俩	Prestidigitation	プレスティディジテイション	요술
+偵測魔法	侦测魔法	Detect Magic	ディテクト・マジック	마법 탐지
+迷蹤步	迷踪步	Misty Step	ミスティ・ステップ	안개 걸음
+德魯伊伎倆	德鲁伊伎俩	Druidcraft	ドルイドクラフト	드루이드술
+大步奔行	大步奔行	Longstrider	ロングストライダー	긴걸음
+無跡通行	无迹通行	Pass without Trace	パス・ウィズアウト・トレイス	흔적 없는 발걸음
+動物交談	动物交谈	Speak with Animals	スピーク・ウィズ・アニマルズ	동물과 대화
+修復術	修复术	Mending	メンディング	수선
+光亮術	光亮术	Light	ライト	빛
+火焰箭	火焰箭	Fire Bolt	ファイアー・ボルト	화염탄
+毒液噴濺	毒液喷溅	Poison Spray	ポイズン・スプレー	독 분사
+致病射線	致病射线	Ray of Sickness	レイ・オヴ・シックネス	질병의 광선
+人類定身術	人类定身术	Hold Person	ホールド・パースン	인간형 포박
+凍寒之觸	冻寒之触	Chill Touch	チル・タッチ	냉기의 손길
+虛假生命	虚假生命	False Life	フォールス・ライフ	거짓 생명
+衰弱射線	衰弱射线	Ray of Enfeeblement	レイ・オヴ・エンフィーブルメント	쇠약의 광선
+自選秘法奧秘（可編輯）	自选秘法奥秘（可编辑）	Mystic Arcanum of choice (editable)	任意の神秘の秘奥（編集可）	선택한 신비의 비전 (편집 가능)
+秘法奧秘	秘法奥秘	Mystic Arcanum	神秘の秘奥	신비의 비전
+自選招牌法術（可編輯）	自选招牌法术（可编辑）	Signature Spell of choice (editable)	任意の得意呪文（編集可）	선택한 대표 주문 (편집 가능)
+招牌法術	招牌法术	Signature Spell	得意呪文	대표 주문
+獵人印記	猎人印记	Hunter’s Mark	ハンターズ・マーク	사냥꾼의 징표
+遊俠｜宿敵	游侠｜宿敌	Ranger · Favored Enemy	レンジャー・得意な敵	레인저 · 주적
